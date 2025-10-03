@@ -6,6 +6,7 @@ We welcome contributions! Here are the guidelines for contributing to this proje
 1. **Fork the Repository**: Use the Fork button in the top-right corner of the page.
 2. **Clone your Fork**: `git clone https://github.com/yourusername/code-review-tool.git`
 3. **Create a Feature Branch**: `git checkout -b my-new-feature`
+   - *It's recommended to use a descriptive name for your branch which reflects the feature or fix.*
 4. **Make your Changes**: Code your features or fixes and save your work.
 5. **Commit your Changes**: `git commit -m 'Add detailed description of the feature or fix'`
 6. **Push to your Branch**: `git push origin my-new-feature`
